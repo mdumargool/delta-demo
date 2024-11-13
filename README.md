@@ -1,2 +1,2 @@
 # delta-demo
-delta course
+this is demo for Git & Github
